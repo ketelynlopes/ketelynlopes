@@ -12,7 +12,7 @@
 <p>Seja bem-vindo(a) ao meu espaço no GitHub! ✨</p>
 
 <p>
-  Sou estudante de Tecnologia da Informação, apaixonada por aprender,
+  Sou estudante de Tecnologia da Informação, gosto de aprender,
   explorar novas tecnologias e desenvolver soluções por meio da programação e dos dados.
 </p>
 
