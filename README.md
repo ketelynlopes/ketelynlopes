@@ -8,7 +8,7 @@
 
 ---
 
-## <span style="color:#00BFFF">👩‍💻 Olá, eu sou a Ketelyn!</span>
+## <span style="color:#00BFFF">👩‍💻 Olá, eu sou Ketelyn!</span>
 
 Seja bem-vindo(a) ao meu espaço no GitHub! ✨
 
