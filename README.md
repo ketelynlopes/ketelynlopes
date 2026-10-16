@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="./imagens/ketelyn.png"
+       alt="My profile banner"
+       width="100%">
+</p>
 <h1 align="center">KETELYN LOPES</h1>
 
 <p align="center">
