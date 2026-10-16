@@ -1,18 +1,22 @@
-# KETELYN LOPES
+ <h1 align="center">KETELYN LOPES</h1>
 
 <p align="center">
   <strong>TECNOLOGIA DA INFORMAÇÃO · DADOS · INOVAÇÃO</strong>
 </p>
 
-## 👩‍💻 Olá, eu sou a Ketelyn!
+---
 
-Seja bem-vindo(a) ao meu espaço no GitHub! ✨
+<h2>👩‍💻 Olá, eu sou a Ketelyn!</h2>
 
-Sou estudante de Tecnologia da Informação, apaixonada por aprender, explorar novas tecnologias e desenvolver soluções por meio da programação e dos dados.
+<p>Seja bem-vindo(a) ao meu espaço no GitHub! ✨</p>
 
-Aqui compartilho minha jornada de aprendizado, meus projetos de estudo e minha evolução na área de tecnologia. 🚀
+<p>Sou estudante de Tecnologia da Informação, apaixonada por aprender, explorar novas tecnologias e desenvolver soluções por meio da programação e dos dados.</p>
 
-<h2><span style="color:#00BFFF">🎯 Objetivos</span></h2>
+<p>Aqui compartilho minha jornada de aprendizado, meus projetos de estudo e minha evolução na área de tecnologia. 🚀</p>
+
+---
+
+<h2>🎯 Objetivos</h2>
 
 - Aprofundar meus conhecimentos em bancos de dados e SQL.
 - Desenvolver habilidades em análise e visualização de dados.
@@ -20,35 +24,47 @@ Aqui compartilho minha jornada de aprendizado, meus projetos de estudo e minha e
 - Criar projetos práticos para aplicar meus conhecimentos.
 - Evoluir profissionalmente na área de Tecnologia da Informação.
 
-<h2><span style="color:#00BFFF">🛠️ Ferramentas que utilizo</span></h2>
+---
+
+<h2>🛠️ Ferramentas que utilizo</h2>
 
 - **VS Code** — edição de código.
 - **Git e GitHub** — versionamento e organização de projetos.
 - **SQL e bancos de dados** — consultas e organização de informações.
 - **Excel** — organização e análise de dados.
 
-<h2><span style="color:#00BFFF">📚 Projetos de estudos</span></h2>
+---
 
-Projetos acadêmicos e exercícios práticos para desenvolver conhecimentos em bancos de dados, análise de dados, programação e tecnologia.
+<h2>📚 Projetos de estudos</h2>
 
-[↗ Explorar meus projetos de estudo](https://github.com/ketelynlopes?tab=repositories)
+<p>Projetos acadêmicos e exercícios práticos para desenvolver conhecimentos em bancos de dados, análise de dados, programação e tecnologia.</p>
 
-<h2><span style="color:#00BFFF">📌 Repositórios populares</span></h2>
+🔗 <a href="https://github.com/ketelynlopes?tab=repositories">Explorar meus projetos de estudo</a>
 
-### 🗄️ Banco de dados
+---
 
-Projetos de modelagem, consultas SQL e organização de informações.
+<h2>📌 Repositórios populares</h2>
 
-[🔗 emprestimo-banco-dados](https://github.com/ketelynlopes/emprestimo-banco-dados)
+<h3>🗄️ Banco de dados</h3>
 
-### 💻 Outros projetos
+<p>Projetos de modelagem, consultas SQL e organização de informações.</p>
 
-Explore meus demais projetos e exercícios.
+🔗 <a href="https://github.com/ketelynlopes/emprestimo-banco-dados">emprestimo-banco-dados</a>
 
-[🔗 Ver todos os meus repositórios](https://github.com/ketelynlopes?tab=repositories)
+<h3>💻 Outros projetos</h3>
 
-<h2><span style="color:#00BFFF">🤝 Vamos nos conectar?</span></h2>
+<p>Explore meus demais projetos e exercícios.</p>
 
-[LinkedIn](https://linkedin.com/in/ketelynlopes)
+🔗 <a href="https://github.com/ketelynlopes?tab=repositories">Ver todos os meus repositórios</a>
 
-✨ Aprender, criar e evoluir. Um projeto de cada vez.
+---
+
+<h2>🤝 Vamos nos conectar?</h2>
+
+🔗 <a href="https://linkedin.com/in/ketelynlopes">LinkedIn</a>
+
+---
+
+<p align="center">
+  <em>✨ Aprender, criar e evoluir. Um projeto de cada vez.</em>
+</p>
